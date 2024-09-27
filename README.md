@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository is created for the **Computer Aided Design & Drafting** course. It has final term OBE assignment question and CAD file.
+This repository contains the final term OBE assignment from my **Computer Aided Design & Drafting** course, taken during my undergraduate studies at the **American International University - Bangladesh (AIUB)**.
 
 ## Contents
 
