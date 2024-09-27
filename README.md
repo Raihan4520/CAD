@@ -15,6 +15,6 @@ This repository contains the final term OBE assignment from my **Computer Aided 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Raihan4520/CAD.git
-2. Open `.dwg` files using compatible CAD software.
+2. Open `.dwg` files using compatible CAD software (e.g., AutoCAD).
 3. Review the assignment instructions in the PDF.
 
