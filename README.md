@@ -1,8 +1,12 @@
-# CAD Repository
+# Computer Aided Design & Drafting Repository
 
 ## Overview
 
 This repository contains the final term OBE assignment from my **Computer Aided Design & Drafting** course, taken during my undergraduate studies at the **American International University - Bangladesh (AIUB)**.
+
+### Course Information
+For more details on the course, refer to the [AIUB Undergraduate Course Catalog](https://www.aiub.edu/faculties/fst/ug-course-catalog).  
+*Note: Search for "Computer Aided Design & Drafting Lab" for specific course information.*
 
 ## Contents
 
@@ -18,3 +22,6 @@ This repository contains the final term OBE assignment from my **Computer Aided 
 2. Open `.dwg` files using compatible CAD software (e.g., AutoCAD).
 3. Review the assignment instructions in the PDF.
 
+## Contact
+
+If you have any questions or suggestions, feel free to reach out through the repository's issues or contact me directly.
