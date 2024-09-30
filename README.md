@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the final term OBE assignment from my **Computer Aided Design & Drafting** course, taken during my undergraduate studies at the **American International University - Bangladesh (AIUB)**.
+This repository contains the final term OBE assignment from **Computer Aided Design & Drafting** course, taken during undergraduate studies at the **American International University - Bangladesh (AIUB)**.
 
 ### Course Information
 For more details on the course, refer to the [AIUB Undergraduate Course Catalog](https://www.aiub.edu/faculties/fst/ug-course-catalog).  
